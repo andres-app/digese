@@ -263,7 +263,7 @@ include 'includes.php';   // Incluir estilos y CSS comunes
                                                         <option value="MAY" selected="">May</option>
                                                         <option value="AP">April</option>
                                                         <option value="MA">March</option>
-                                                        <option value="FE">Feb</option>
+                                                        <option value="FE">February</option>
                                                         <option value="JA">January</option>
                                                         <option value="DE">December</option>
                                                     </select>
