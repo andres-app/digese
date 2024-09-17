@@ -132,6 +132,5 @@ if (!$result) {
 </div> <!-- main-content -->
 
 <?php 
-include 'scripts.php';  // Incluir scripts y JS comunes
 include 'footer.php'; 
 ?>

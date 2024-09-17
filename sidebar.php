@@ -3,10 +3,13 @@
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
+
+// Incluye estilos y scripts comunes
+include 'includes.php';
 ?>
 
 <div class="vertical-menu">
-    <div data-simplebar="" class="h-100">
+    <div data-simplebar class="h-100">
         <!-- Sidemenu -->
         <div id="sidebar-menu">
             <!-- Menu Start -->
@@ -31,7 +34,6 @@ if (session_status() === PHP_SESSION_NONE) {
                         <!-- Añade más enlaces aquí -->
                     </ul>
                 </li>
-
 
                 <!-- Añade más secciones del menú aquí -->
 
