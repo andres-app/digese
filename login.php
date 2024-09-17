@@ -84,11 +84,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                                 <div class="flex-grow-1">
                                                     <label class="form-label">Contraseña</label>
                                                 </div>
-                                                <div class="flex-shrink-0">
+                                                <!-- <div class="flex-shrink-0">
                                                     <div class="">
                                                         <a href="auth-recoverpw-1.html" class="text-muted">¿Olvidaste tu contraseña?</a>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                             <div class="input-group auth-pass-inputgroup">
                                                 <input type="password" name="password" class="form-control"

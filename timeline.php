@@ -68,7 +68,7 @@ if (!$result) {
                                     <div class="timeline">
                                         <div class="timeline-container">
                                             <div class="timeline-end">
-                                                <p>Start</p>
+                                                <p>Inicio</p>
                                             </div>
                                             <div class="timeline-continue">
                                                 <?php 
@@ -117,7 +117,7 @@ if (!$result) {
                                                 ?>
                                             </div>
                                             <div class="timeline-start">
-                                                <p>End</p>
+                                                <p>Fin</p>
                                             </div>
                                         </div>
                                     </div>

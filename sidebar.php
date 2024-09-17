@@ -1,5 +1,5 @@
+<!-- sidebar.php -->
 <?php
-// Asegúrate de iniciar la sesión si es necesario
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
